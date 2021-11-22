@@ -1,4 +1,4 @@
-# Simple Tic-tac-toe
+# Project: Simple Tic-tac-toe
 
 A simple game played by two players on a 3x3 grid. One of the players is 'X', and the other player is 'O'. X plays first, then O takes the next turn, and so on.
 
