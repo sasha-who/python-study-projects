@@ -1,4 +1,4 @@
-# Python study projects
+# Python Study Projects
 
 - [Simple Tic-tac-toe](./tic-tac-toe) (JetBrains Academy)
 
